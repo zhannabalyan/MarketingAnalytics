@@ -1,4 +1,4 @@
-# Bass Bass Diffusion Model Analysis for Dyson OnTrac headphones
+# Bass Diffusion Model Analysis for Dyson OnTrac headphones
 
 ## Project Overview
 This project aims to use the Bass Diffusion Model to forecast adoption of an innovation like the Dyson OnTrac headphones.This is done by by comparing it to the market adoption pattern of Apple AirPods.
