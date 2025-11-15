@@ -88,7 +88,17 @@ These actions help protect profitable customers and improve overall lifetime val
 
 ## Setup and Usage
 
-1. **Install dependencies**:
+1. **Clone the repository** to your local machine.  
+2. **Install dependencies** using:
 
 ```bash
 pip install -r requirements.txt
+
+Place the dataset in the project directory:
+
+telco.csv
+
+
+Launch and run the notebook:
+
+jupyter notebook Survival_Analysis.ipynb
