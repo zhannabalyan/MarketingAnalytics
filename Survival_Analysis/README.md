@@ -94,11 +94,12 @@ These actions help protect profitable customers and improve overall lifetime val
 ```bash
 pip install -r requirements.txt
 
-3. **Place the dataset in the project directory**:
+Place the dataset in the project directory:
 
 telco.csv
 
 
-4. **Launch and run the notebook**:
+Launch and run the notebook:
 
 jupyter notebook Survival_Analysis.ipynb
+
