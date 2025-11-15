@@ -1,6 +1,6 @@
 # Telecom Customer Survival Analysis Overview
 
-This repository presents a full survival analysis of telecom customer churn, focusing on estimating customer lifetime, identifying churn-driving factors, and evaluating Customer Lifetime Value (CLV) across service segments. The project uses an **Accelerated Failure Time (AFT)** modeling framework and includes both statistical findings and practical business recommendations.
+This repository presents a full survival analysis of telecom customer churn, focusing on estimating customer lifetime, identifying churn-driving factors, and evaluating CLV across service segments. The project uses an AFT modeling framework and includes both statistical findings and practical business recommendations.
 
 ---
 
